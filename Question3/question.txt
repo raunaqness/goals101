@@ -1,0 +1,1 @@
+Create terraform template to deploy ec2 instance with a new security group.
