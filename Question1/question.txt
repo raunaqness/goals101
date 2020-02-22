@@ -1,0 +1,1 @@
+Create a deployment to deploy Jenkins on Kubernetes. Make sure to attach PVC
